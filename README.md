@@ -12,4 +12,4 @@ A proposta é criar uma **barra de navegação interativa com animações**.
 - Animações CSS aplicadas a elementos
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
